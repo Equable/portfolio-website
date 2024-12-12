@@ -18,6 +18,10 @@
       }
     ],
     "paths": {
+      "@App/*": ["./src/app/*"],
+      "@Utils/*": ["./src/utils/*"],
+      "@Components/*": ["./src/components/*"],
+      "~sass-styles/*": ["./src/sass-styles/*"],
       "@/*": ["./src/*"]
     }
   },
