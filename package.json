@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "coral-island-crop-scrape": "^1.0.1",
+    "coral-island-crop-scrape": "^2.0.0",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
